@@ -1,4 +1,4 @@
-# Distance Measuring System
+# Distance Measuring System Using ATmega16 Microcontroller
 - [Description](#description)
 - [Features](#features)
 - [Schematic Capture](#Schematic-Capture)
