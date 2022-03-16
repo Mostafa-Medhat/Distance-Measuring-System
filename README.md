@@ -1,4 +1,4 @@
-# Temperature Control System
+# Distance Measuring System
 - [Description](#description)
 - [Features](#features)
 - [Schematic Capture](#Schematic-Capture)
